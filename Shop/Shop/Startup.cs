@@ -10,6 +10,7 @@ namespace Shop
         {
             //KOMPLETNIE NIC TU NIE ZMIENIfqewdsssdsaswdasdfasdasŁAM
             //gowno
+            //newmila
             ConfigureAuth(app);
         }
     }
