@@ -8,6 +8,7 @@ namespace Shop
     {
         public void Configuration(IAppBuilder app)
         {
+            //KOMPLETNIE NIC TU NIE ZMIENIŁAM
             ConfigureAuth(app);
         }
     }
