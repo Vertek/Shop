@@ -8,6 +8,7 @@ namespace Shop
     {
         public void Configuration(IAppBuilder app)
         {
+            //safjbask jdbjas
             ConfigureAuth(app);
         }
     }
