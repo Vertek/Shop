@@ -9,6 +9,7 @@ namespace Shop
         public void Configuration(IAppBuilder app)
         {
             //KOMPLETNIE NIC TU NIE ZMIENIfqewdsssdsaswdasdfasdasŁAM
+            //gowno
             ConfigureAuth(app);
         }
     }
